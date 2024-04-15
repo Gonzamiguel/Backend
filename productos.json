@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Manzana",
+    "description": "Una fruta deliciosa.",
+    "price": 3,
+    "thumbnail": "manzana.jpg",
+    "code": "A001",
+    "stock": 90,
+    "id": 1
+  }
+]}
+]
